@@ -1,0 +1,15 @@
+licensefile2.txt
+/home/ubuntu
+print("license2")
+hello
+
+noticefile2.txt
+/home/ubuntu
+print("noticefile2")
+print("Jenkins notice ends on june")
+print("github notice ends on may")
+licensefile1.txt
+/home/ubuntu
+print("license file1")
+python
+devops

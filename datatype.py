@@ -1,0 +1,9 @@
+var="devops"
+print(var)
+print(type(var))
+var1=12
+print(var1)
+print(type(var1))
+var2=12.13
+print(var2)
+print(type(var2))

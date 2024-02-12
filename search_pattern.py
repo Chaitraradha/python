@@ -1,0 +1,25 @@
+import re
+email_data="chaitra <chaitrasradha@gmail.com>, anu <anusha@gmail.com>, chaitu03 <chaitra11@gmail.com>, chintu <chintu@gmail.com>"
+result=re.findall("chait[r, u]", email_data)
+print(result)
+result=re.findall("ch[a, i]", email_data)
+print(result)
+result=re.search("ch[a, i]", email_data, re.IGNORECASE) #to make the search as case incensitive
+print(result)
+result=re.search("ch[a, z]", email_data)
+print(result)
+result=re.findall("ch[a, z]", email_data)
+print(result)
+result=re.search("ch[a, z]+", email_data)
+print(result)
+result=re.findall("ch[a, z]+", email_data)
+print(result)
+result=re.search("chait[u, z]+[0-9]+", email_data)
+print(result)
+result=re.search(r"[A-Za-z0-9_]+@[A-Za-z0-9]+\.[A-Za-z0-9]+", email_data)
+print(result)
+result=re.findall(r"[A-Za-z0-9_]+@[A-Za-z0-9]+\.[A-Za-z0-9]+", email_data)
+print(result)
+result=re.findall(r"\w+@\w+\.\w+", email_data)
+print(result)
+

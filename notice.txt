@@ -1,0 +1,69 @@
+rint("noticefile")
+print("Jenkins notice ends on june")
+print("github notice ends on may")
+licensefile2.txt
+/home/ubuntu
+print("license2")
+hello
+
+noticefile2.txt
+/home/ubuntu
+print("noticefile2")
+print("Jenkins notice ends on june")
+print("github notice ends on may")
+licensefile1.txt
+/home/ubuntu
+print("license file1")
+python
+devops
+noticefile1.txt
+/home/ubuntu
+licensefile2.txt
+/home/ubuntu
+print("license2")
+hello
+
+noticefile2.txt
+/home/ubuntu
+print("noticefile2")
+print("Jenkins notice ends on june")
+print("github notice ends on may")
+licensefile1.txt
+/home/ubuntu
+print("license file1")
+python
+devops
+license2.txt
+/home/ubuntu
+licensefile2.txt
+/home/ubuntu
+print("license1")
+hello
+
+noticefile2.txt
+/home/ubuntu
+print("noticefile2")
+print("Jenkins notice ends on june")
+print("github notice ends on may")
+licensefile1.txt
+/home/ubuntu
+print("license file2")
+python
+devops
+noticefile1.txt
+/home/ubuntu
+licensefile2.txt
+/home/ubuntu
+print("license2")
+hello
+
+noticefile2.txt
+/home/ubuntu
+print("noticefile2")
+print("Jenkins notice ends on june")
+print("github notice ends on may")
+licensefile1.txt
+/home/ubuntu
+print("license file1")
+python
+devops
